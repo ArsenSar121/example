@@ -1,0 +1,30 @@
+1677870269748	geckodriver	INFO	Listening on 127.0.0.1:56967
+1677870270226	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56968" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/pg/w6wwvqlx51ddxwq6btb2fc5c0000gn/T/rust_mozprofileC2jN9A"
+1677870270939	Marionette	INFO	Marionette enabled
+1677870271002	Marionette	INFO	Listening on port 56975
+Read port: 56975
+WebDriver BiDi listening on ws://127.0.0.1:56968
+1677870271096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/pg/w6wwvqlx51ddxwq6btb2fc5c0000gn/T/rust_mozprofileC2jN9A/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56968/devtools/browser/a8ac1d07-f687-4c1d-a97e-a5e1402614df
+1677870329949	geckodriver	INFO	Listening on 127.0.0.1:57055
+1677870330477	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57056" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/pg/w6wwvqlx51ddxwq6btb2fc5c0000gn/T/rust_mozprofileOtHnxD"
+1677870331059	Marionette	INFO	Marionette enabled
+1677870331182	Marionette	INFO	Listening on port 57063
+Read port: 57063
+WebDriver BiDi listening on ws://127.0.0.1:57056
+1677870331252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/pg/w6wwvqlx51ddxwq6btb2fc5c0000gn/T/rust_mozprofileOtHnxD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57056/devtools/browser/4868cf55-38f1-4dfc-940f-bb5c00a754e7
+1677870352994	geckodriver	INFO	Listening on 127.0.0.1:57144
+1677870353512	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57145" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/pg/w6wwvqlx51ddxwq6btb2fc5c0000gn/T/rust_mozprofilefaBGd4"
+1677870353834	Marionette	INFO	Marionette enabled
+1677870353958	Marionette	INFO	Listening on port 57152
+WebDriver BiDi listening on ws://127.0.0.1:57145
+Read port: 57152
+1677870354123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/pg/w6wwvqlx51ddxwq6btb2fc5c0000gn/T/rust_mozprofilefaBGd4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57145/devtools/browser/7bcbe668-2fb7-47f1-871e-9a8cd10ef3f8
